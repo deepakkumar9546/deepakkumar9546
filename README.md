@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://twitter.com/deepak_k_shri" target="blank"><img src="https://img.shields.io/twitter/follow/deepak_k_shri?logo=twitter&style=for-the-badge" alt="deepak_k_shri" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Development**
-- 
 
 - 🌱 I’m currently learning **React JS**
 
