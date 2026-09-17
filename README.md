@@ -35,9 +35,6 @@
 
 </div>
 
-<br>
-
-<br>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -71,3 +68,131 @@ I enjoy working on backend systems, REST APIs, databases and application archite
 ☁️ AWS
 🧠 DSA & System Design
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ☕ Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌱 Backend
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+</td>
+</tr>
+</table>
+
+</div>
+</div>
+
+<br>
+
+<h2 align="center">🏗️ Engineering Focus</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☕ Backend
+
+Java  
+Spring Boot  
+Spring MVC  
+JPA / Hibernate  
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️ Frontend
+
+React.js  
+React Router  
+Redux Toolkit  
+Tailwind CSS
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Data
+
+PostgreSQL  
+MySQL  
+H2  
+SQL  
+Database Design
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️ Architecture
+
+Microservices  
+Saga Pattern  
+Redis  
+Docker  
+Kubernetes
+
+</td>
+</tr>
+</table>
+
+</div>
