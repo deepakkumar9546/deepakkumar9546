@@ -20,7 +20,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: deepakkumar9546
-          output_path: github-trophies.svg
+          file: github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy SVG
