@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     permissions:
@@ -16,14 +16,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate trophy SVG
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: deepakkumar9546
-          file: github-trophies.svg
+          options: 'username=deepakkumar9546&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true'
+          path: github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit trophy SVG
+      - name: Commit trophy card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
