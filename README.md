@@ -29,13 +29,6 @@
 
 ---
 
-</td>
-</tr>
-</table>
-
-</div>
-
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
@@ -135,7 +128,6 @@ I enjoy working on backend systems, REST APIs, databases and application archite
 </tr>
 </table>
 
-</div>
 </div>
 
 <br>
@@ -402,6 +394,8 @@ During my tenure at HCLTech, I completed structured training focused on the Java
 </div>
 
 <br>
+
+
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
