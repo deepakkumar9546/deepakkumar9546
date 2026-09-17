@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=deepakkumar9546&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+
 <a href="mailto:deepakdpk0704@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -628,13 +632,13 @@ I'm always open to connecting with developers, recruiters and people interested 
   <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-203A43?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/deepakkumar9546">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/deepak-kumar-56417322a/">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=deepakkumar9546&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 
 <a href="mailto:deepakdpk0704@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
