@@ -400,3 +400,244 @@ During my tenure at HCLTech, I completed structured training focused on the Java
 </table>
 
 </div>
+
+<br>
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<div align="center">
+
+<img src="./github-trophies.svg" alt="GitHub Trophies" />
+
+</div>
+
+<br>
+
+<h2 align="center">🌌 3D Contribution Universe</h2>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph" />
+
+</div>
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<p>
+  Watch the contribution snake move through my GitHub activity.
+</p>
+
+<img src="./github-snake.svg" width="100%" alt="GitHub Contribution Snake" />
+
+</div>
+
+<br>
+
+<h2 align="center">🗺️ Developer Journey</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 🎓
+
+<b>2021</b>
+
+<br>
+
+Computer Science  
+Engineering
+
+</td>
+
+<td align="center" width="20%">
+
+### ☕
+
+<b>2024</b>
+
+<br>
+
+Java &  
+Full Stack Foundations
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌱
+
+<b>2025</b>
+
+<br>
+
+Spring Boot  
+React & REST APIs
+
+</td>
+
+<td align="center" width="20%">
+
+### 🏢
+
+<b>2025+</b>
+
+<br>
+
+HCLTech  
+Graduate Engineer Trainee
+
+</td>
+
+<td align="center" width="20%">
+
+### 🏗️
+
+<b>Now</b>
+
+<br>
+
+Microservices  
+System Design & DSA
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+`Learn` → `Build` → `Solve` → `Design` → `Improve`
+
+</div>
+
+<br>
+
+<h2 align="center">🔭 Currently Exploring</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+<b>System Design</b>
+
+<br><br>
+
+High-Level Design  
+Scalable Systems  
+Distributed Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+
+<b>Low-Level Design</b>
+
+<br><br>
+
+OOP  
+Design Patterns  
+SOLID Principles
+
+</td>
+
+<td align="center" width="25%">
+
+### ☕
+
+<b>Advanced Java</b>
+
+<br><br>
+
+Collections  
+Streams  
+Concurrency  
+JVM Fundamentals
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+<b>Problem Solving</b>
+
+<br><br>
+
+DSA  
+Algorithms  
+Complexity  
+Optimization
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+`Learn` → `Practice` → `Build` → `Design`
+
+</div>
+
+<br>
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+<p>
+I'm always open to connecting with developers, recruiters and people interested in software engineering.
+</p>
+
+<br>
+
+<a href="https://deepak-java-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-203A43?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/deepakkumar9546">
+  <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/deepak-kumar-56417322a/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:deepakdpk0704@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ☕ Keep Building. Keep Learning. Keep Improving.
+
+`Java` • `Spring Boot` • `React` • `PostgreSQL` • `System Design` • `DSA`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" width="100%"/>
+
+</div>
