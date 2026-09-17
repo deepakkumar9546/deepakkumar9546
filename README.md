@@ -395,7 +395,31 @@ During my tenure at HCLTech, I completed structured training focused on the Java
 
 <br>
 
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img src="./profile/streak.svg" width="100%" alt="GitHub Contribution Streak"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="./profile/stats.svg" width="100%" alt="GitHub Stats"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
