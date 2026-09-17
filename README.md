@@ -29,16 +29,45 @@
 
 ---
 
-# 👨‍💻 About Me
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<br>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Who I Am
+
+I'm a **Java Full Stack Developer** focused on building scalable and maintainable applications using **Java, Spring Boot, React and PostgreSQL**.
+
+I enjoy working on backend systems, REST APIs, databases and application architecture while continuously improving my problem-solving skills.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 What I Focus On
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                       DEEPAK KUMAR                           │
-├──────────────────────────────────────────────────────────────┤
-│ Role       → Java Full Stack Developer                       │
-│ Company    → HCLTech                                         │
-│ Location   → Bengaluru, Karnataka                            │
-│ Education  → B.E. Computer Science & Engineering             │
-│ Focus      → Java • Spring Boot • React • Databases          │
-│ Interests  → Backend Systems • APIs • Microservices           │
-└──────────────────────────────────────────────────────────────┘
+☕ Java & OOP
+🌱 Spring Boot
+⚛️ React
+🗄️ PostgreSQL
+🔐 REST APIs & Security
+🏗️ Microservices
+🧪 JUnit & Testing
+🐳 Docker
+☁️ AWS
+🧠 DSA & System Design
+```
