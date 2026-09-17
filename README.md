@@ -650,7 +650,7 @@ I'm always open to connecting with developers, recruiters and people interested 
 
 <div align="center">
 
-### ☕ Keep Building. Keep Learning. Keep Improving.
+### ☕ Keep Building.   Keep Learning.   Keep Improving.
 
 `Java` • `Spring Boot` • `React` • `PostgreSQL` • `System Design` • `DSA`
 
